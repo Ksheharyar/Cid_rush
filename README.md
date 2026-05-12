@@ -17,7 +17,7 @@ The game focuses on:
 * Pop culture inspired references
 * Casual entertainment experience
 
----
+----
 
 # ✨ Features
 
