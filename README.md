@@ -2,7 +2,7 @@
 
 Cid Rush is a fun meme-based 2D action game inspired by iconic Indian pop culture references. The game combines humor, chaotic gameplay, and parody storytelling into a fast-paced adventure where the legendary CID character chases Khachra Seth from Hera Pheri, who is attempting to steal mysterious white powder.
 
----
+----
 
 # 🎮 Game Overview
 
