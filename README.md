@@ -20,7 +20,7 @@ The game focuses on:
 ----
 
 # ✨ Features
-
+ 
 ## 😂 Meme-Based Gameplay
 
 * Inspired by classic Indian meme culture
