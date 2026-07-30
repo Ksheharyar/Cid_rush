@@ -12,7 +12,7 @@ The game focuses on:
  
 * Fun arcade-style gameplay
 * Meme and parody humor    
-* Fast-paced enemy chasing mechanics 
+* Fast-paced enemy chasing mechanics  
 * 2D action gameplay
 * Pop culture inspired references  
 * Casual entertainment experience
