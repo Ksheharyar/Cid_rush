@@ -6,7 +6,7 @@ Cid Rush is a fun meme-based 2D action game inspired by iconic Indian pop cultur
 
 # 🎮 Game Overview
 
-Step into a hilarious meme-inspired world filled with action, comedy, and absurd situations. In Cid Rush, players control a CID-inspired character on a mission to stop Khachra Seth before he escapes with the stolen white powder .
+Step into a hilarious meme-inspired world filled with action, comedy, and absurd situatio ns. In Cid Rush, players control a CID-inspired character on a mission to stop Khachra Seth before he escapes with the stolen white powder .
 
 The game focuses on:
  
